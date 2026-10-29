@@ -10,3 +10,6 @@ test\**
 **.a
 **.txt
 **.so
+*.gch
+.idea/
+.vscode/
